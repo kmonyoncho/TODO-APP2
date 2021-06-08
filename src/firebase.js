@@ -1,13 +1,13 @@
 import firebase from "firebase";
 
 const firebaseApp=firebase.initializeApp({
-    apiKey: "AIzaSyBbkrKIrBNGZcBjrm3Z2OrNRJig27IBRdU",
-    authDomain: "todo-app-3f78e.firebaseapp.com",
-    projectId: "todo-app-3f78e",
-    storageBucket: "todo-app-3f78e.appspot.com",
-    messagingSenderId: "194823336829",
-    appId: "1:194823336829:web:87724622df45ac174b5214",
-    measurementId: "G-83JHJQLEGS"
+    apiKey: "AIzaSyCBYfHeKVWh76uun74P9pCgr3tZz4Vhj8E",
+    authDomain: "todo-app-b3fa6.firebaseapp.com",
+    projectId: "todo-app-b3fa6",
+    storageBucket: "todo-app-b3fa6.appspot.com",
+    messagingSenderId: "1075489890751",
+    appId: "1:1075489890751:web:db8ccda0f796ebb040410a",
+    measurementId: "G-P7QDMRXG5Q"
 
 });
 
